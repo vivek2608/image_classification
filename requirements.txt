@@ -1,0 +1,12 @@
+# pytorch 
+torch 
+torchvision 
+torchaudio
+
+
+#other libs
+
+pandas
+numpy
+streamlit
+jupyterlab
