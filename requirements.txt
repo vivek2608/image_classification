@@ -9,4 +9,3 @@ torchaudio
 pandas
 numpy
 streamlit
-jupyterlab
